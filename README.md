@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wbecksg89
 - 🌱 I’m a Data Scientist in a Finance world
 - 👀 I’m interested in IA, Data Science, FP&A, Machine Learning, Data Analysis and Visualization
-- 💞️ I’m looking to collaborate on Story-telling, Data Science and FP&A projects
+- 💞️ I’m looking to collaborate on Story-telling, IA, Data Science and FP&A projects
 - 📫 You can reach me in wbecksg@gmail.com
 
 <!---
